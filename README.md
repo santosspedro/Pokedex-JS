@@ -34,13 +34,15 @@ Use os botões "Prev" e "Next" para navegar entre os Pokémons.
 
 Tecnologias Utilizadas:
 
--HTML5
--CSS3
--JavaScript
--PokéAPI
--Contribuição
--Fork este repositório.
--Crie um branch para sua feature (git checkout -b feature/nova-feature).
--Commit suas mudanças (git commit -m 'Adicionei uma nova feature').
--Faça o push para o branch (git push origin feature/nova-feature).
--Abra um Pull Request.
+- HTML5
+- CSS3
+- JavaScript
+- PokéAPI
+
+Contribuição
+
+- Fork este repositório.
+- Crie um branch para sua feature (git checkout -b feature/nova-feature).
+- Commit suas mudanças (git commit -m 'Adicionei uma nova feature').
+- Faça o push para o branch (git push origin feature/nova-feature).
+- Abra um Pull Request.
