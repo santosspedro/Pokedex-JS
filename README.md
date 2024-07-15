@@ -18,10 +18,11 @@ Este projeto é uma Pokédex interativa que permite aos usuários buscar Pokémo
 
 ```bash
 git clone https://github.com/santosspedro/Pokedex-JS.git
+```
 
 2.Navegue até o diretório do projeto:
 
-cd Pokedex-JS
+```cd Pokedex-JS```
 
 Uso:
 
